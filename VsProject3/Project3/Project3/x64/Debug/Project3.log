@@ -1,0 +1,3 @@
+﻿  CornerGrocer.cpp
+E:\Documents\SNHU\CS210\CPPCourseWork\Project3\CornerGrocer.cpp(135,35): warning C4101: 'fail': unreferenced local variable
+  Project3.vcxproj -> E:\Documents\SNHU\CS210\CPPCourseWork\VsProject3\Project3\x64\Debug\Project3.exe
