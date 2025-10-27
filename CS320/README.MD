@@ -1,0 +1,11 @@
+How do I approach designing software?
+
+I approached designing this project much like how I set to design a personal project of mine. Knowing what I am designing towards by having a good idea of what end product I want, and breaking it down into manageable portions and working each with small goals. Each week was built upon the previous week with iterations. The personal project I am working on has been broken up similarly, but with functionality milestones instead of timed deadlines. If I were to move my personal project off the back burner, I would disburse these functionality milestones into timed ones to encourage faster development. 
+
+How do I approach developing programs?
+
+This class did not have sweeping changes to how I develop software like some of the earlier, fundamental classes did. Instead, this class reinforced many of the development principles that I have been working on being more consistent with. The main one that I would point to is to create when necessary. I could have added funcitonality so that I could have global scale and rotations, but it was simply not necessary to do. It would have been nice, yes, but not necessary at this point in time. The earliest iterations of the project still met the functionality requirements without having even a global transform so the other two would be entirely unecessary. I tend towards a sense of perfectionism but while with programming this can create very functional and robust code, it can mean sacrifices in time and cost of development. This should go without saying, but balancing functionality with cost and time is one of the most, if not the most important skill a programmer can have. 
+
+How can computer science help me in reaching my goals?
+
+I have worked quite a bit with Unity Game Engine and one of the most enlightening subjects was with lighting, pun fully intended. Understanding the backend, even as rudimentary as was learned, gives much needed perspective on the subject. It lets me understand how my applications of lighting affect the inner workings of the program. Additionally, it creates a base for me to develop my own lighting systems if it comes to that. This puts a sense of independence in my development confidence. If something doesn't work how I need it to, I can be confident in changing or iterating upon it if needed.
